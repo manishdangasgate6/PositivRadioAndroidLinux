@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="89222" started-at="2017-11-15T13:27:50Z" finished-at="2017-11-15T13:29:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="89222" started-at="2017-11-15T13:27:50Z" finished-at="2017-11-15T13:29:19Z">
+      <class name="sprint5.PlayRandomTalkTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:sprint5.PlayRandomTalkTest@6e06451e]" name="setup" is-config="true" duration-ms="23199" started-at="2017-11-15T18:57:50Z" finished-at="2017-11-15T18:58:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="doLogin()[pri:0, instance:sprint5.PlayRandomTalkTest@6e06451e]" name="doLogin" duration-ms="23623" started-at="2017-11-15T18:58:13Z" finished-at="2017-11-15T18:58:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="startPlayingLibraryFromTheSelectedTalks()[pri:0, instance:sprint5.PlayRandomTalkTest@6e06451e]" name="startPlayingLibraryFromTheSelectedTalks" duration-ms="6555" started-at="2017-11-15T18:58:37Z" finished-at="2017-11-15T18:58:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startPlayingLibraryFromTheSelectedTalks -->
+        <test-method status="PASS" signature="shufflePlayLibraryFromTheSelectedSpeaker()[pri:0, instance:sprint5.PlayRandomTalkTest@6e06451e]" name="shufflePlayLibraryFromTheSelectedSpeaker" duration-ms="10445" started-at="2017-11-15T18:58:43Z" finished-at="2017-11-15T18:58:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shufflePlayLibraryFromTheSelectedSpeaker -->
+        <test-method status="PASS" signature="startPlayingSingleTalkLibraryFromTheSelectedSpeaker()[pri:0, instance:sprint5.PlayRandomTalkTest@6e06451e]" name="startPlayingSingleTalkLibraryFromTheSelectedSpeaker" duration-ms="7440" started-at="2017-11-15T18:58:54Z" finished-at="2017-11-15T18:59:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startPlayingSingleTalkLibraryFromTheSelectedSpeaker -->
+        <test-method status="PASS" signature="PlaySingleTalkOnClickOnSongFromLibraryFromTheSelectedSpekerTalk()[pri:0, instance:sprint5.PlayRandomTalkTest@6e06451e]" name="PlaySingleTalkOnClickOnSongFromLibraryFromTheSelectedSpekerTalk" duration-ms="6906" started-at="2017-11-15T18:59:01Z" finished-at="2017-11-15T18:59:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PlaySingleTalkOnClickOnSongFromLibraryFromTheSelectedSpekerTalk -->
+        <test-method status="PASS" signature="PlaySingleTalkOnClickOnSongFromLibraryFromTheSelectedTalk()[pri:0, instance:sprint5.PlayRandomTalkTest@6e06451e]" name="PlaySingleTalkOnClickOnSongFromLibraryFromTheSelectedTalk" duration-ms="9377" started-at="2017-11-15T18:59:08Z" finished-at="2017-11-15T18:59:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PlaySingleTalkOnClickOnSongFromLibraryFromTheSelectedTalk -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:sprint5.PlayRandomTalkTest@6e06451e]" name="tearDown" is-config="true" duration-ms="1646" started-at="2017-11-15T18:59:17Z" finished-at="2017-11-15T18:59:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sprint5.PlayRandomTalkTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
